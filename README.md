@@ -21,8 +21,6 @@ git clone https://github.com/your-username/your-repo-name.git
 * Install the required Python packages using pip:<br />
 pip install opencv-python numpy pandas dlib imutils pygame
 
-* Download the shape_predictor_68_face_landmarks.dat file from the dlib model repository and place it in the same directory as the code.
-
 * Usage
   Run the below Python script:<br />
   python drowsiness_detection.py
