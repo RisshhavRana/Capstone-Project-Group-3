@@ -7,12 +7,12 @@ This repository contains Python code for drowsiness detection and gaze analysis 
 * Requirements:<br />
 Before running the code, make sure you have the following installed:<br />
 1. Python (>= 3.11)<br />
-2. OpenCV (cv2)<br />
-3. NumPy<br />
-4. pandas<br />
-5. dlib<br />
-6. imutils<br />
-7. pygame
+2. OpenCV (cv2) (>= 4.6.0)<br />
+3. NumPy (>= 1.25)<br />
+4. pandas(>= 2.0<br />
+5. dlib (>= 19.24.2) <br />
+6. imutils <br />
+7. pygame (>= 2.5.0)
 
 * Setup<br />
 Clone the repository to your local machine using Git:<br />
